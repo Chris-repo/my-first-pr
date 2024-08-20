@@ -65,6 +65,7 @@ git remote -v
 The name "pull request" comes from the idea that you're requesting the project to _pull_ changes from your fork. 
 You initiate a pull request when you're ready to begin merging new changes in the code to the project's main repository.
 
+
 ### Create a local branch
 
 You read the definition above, and you can't believe they got it this wrong. The name `Pull Request` can be misleading, but come on!
